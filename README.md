@@ -1,3 +1,8 @@
+# What is this?
+
+This is a fork of Zlib. I'm just trying to get it working for my setup (Visual Studio 2019 on Windows)
+
+
 ZLIB DATA COMPRESSION LIBRARY
 
 zlib 1.2.3 is a general purpose data compression library.  All the code is
